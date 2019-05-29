@@ -1,0 +1,19 @@
+body {
+	line-height: 1.42857143;
+    color: #555;
+    height: 100vh;
+    ackground-size: 100%;
+    background-position: top;
+    background-repeat: repeat;
+    font-family: 'Roboto';
+    overflow-x: hidden;
+}
+
+.mainDiv{
+	background-color: rgba(0,0,0,0.7);
+	padding: 50px 150px;
+}
+
+.mainDiv label{
+	color : white;
+}
